@@ -2,20 +2,19 @@
 
 # Hi 👋, I'm Alex Kreimann
 
-### IT student from Estonia, currently leveling up in DevOps & Cybersecurity
+### 19-year-old IT student from Estonia, currently leveling up in DevOps & Cybersecurity
 
 </div>
 
 <br>
 
-- 🎓 Studying **IT Systems Specialist** at Haapsalu Kutsehariduskeskus
-- 🔭 Currently looking for an **internship opportunity**
-- 📊 Interested in **data management, data science, and databases**
-- 🚀 Currently learning via [boot.dev](https://www.boot.dev)'s [DevOps Engineer Path (Python & Go)](https://www.boot.dev/paths/devops?tech=python-golang) — on **Learn to Code in Python, Chapter 3: Functions**
-- 🎯 I like this path because it covers all the popular DevOps tools and skills in one structured track
-- 🔐 Practicing offensive/defensive security skills through **TryHackMe** labs
-- 💼 Want to know about my experience? Check out my [CV](https://github.com/alexkreimann/cv)
-- ⚡ Fun fact — I have ADHD and autism, so my brain runs exactly two modes: obsessive hyperfocus or "wait, what was I doing?" There is no in-between.
+- Studying **IT Systems Specialist** at Haapsalu Kutsehariduskeskus
+- Currently looking for an **internship opportunity**
+- Interested in **data management, data science, and databases**
+- Currently learning via [boot.dev](https://www.boot.dev)'s [DevOps Engineer Path (Python & Go)](https://www.boot.dev/paths/devops?tech=python-golang) — on **Learn to Code in Python, Chapter 3: Functions**
+- Practicing offensive/defensive security skills through **TryHackMe** labs
+- Want to know about my experience? Check out my [CV](https://github.com/alexkreimann/cv)
+- Fun fact ⚡ — I have ADHD and autism, so my brain runs exactly two modes: obsessive hyperfocus or "wait, what was I doing?" There is no in-between.
 
 <br>
 
