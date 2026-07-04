@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29657472/README.md)
 <div align="center">
 
 <img src="https://capsule-render.com/api?type=waving&color=0:2C5530,100:2C3E50&height=160&section=header&text=Alex%20Kreimann&fontSize=38&fontColor=fff&desc=Koolit%C3%B6%C3%B6d%20%26%20praktikaprojektid&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
