@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 <div align="center">
 
 # Hi 👋, I'm Alex Kreimann
